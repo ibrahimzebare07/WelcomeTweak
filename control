@@ -1,0 +1,9 @@
+Package: com.ibraheimzebare.welcometweak
+Name: Welcome Tweak
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: A simple tweak that shows a welcome popup
+Maintainer: Ibrahim Zebare
+Author: Ibrahim Zebare
+Section: Tweaks
